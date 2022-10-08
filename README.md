@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Alfred-theme-vitesse 🖌️</h1>
+  <h1>Vitesse Theme for Alfred</h1>
   <p>
     <a href="https://user-images.githubusercontent.com/494699/194705739-72dc38cb-d037-4d9d-9157-52c2f1aec4fe.png" title="Screenshot of Alfred Vitesse themes">
       <img alt="Screenshot of Alfred Vitesse themes" src="https://user-images.githubusercontent.com/494699/194705739-72dc38cb-d037-4d9d-9157-52c2f1aec4fe.png" />
