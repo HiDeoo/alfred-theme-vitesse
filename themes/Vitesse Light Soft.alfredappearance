@@ -1,0 +1,65 @@
+{
+  "alfredtheme": {
+    "credit": "HiDeoo",
+    "name": "Vitesse Light Soft",
+    "result": {
+      "backgroundSelected": "#1c6b48ff",
+      "iconPaddingHorizontal": 4,
+      "iconSize": 40,
+      "paddingVertical": 3,
+      "roundness": 6,
+      "shortcut": {
+        "color": "#393a348f",
+        "colorSelected": "#f1f0e9cc",
+        "font": "System",
+        "size": 16
+      },
+      "subtext": {
+        "color": "#393a348f",
+        "colorSelected": "#f1f0e9cc",
+        "font": "System",
+        "size": 12
+      },
+      "text": {
+        "color": "#393a34ff",
+        "colorSelected": "#f1f0e9ff",
+        "font": "System",
+        "size": 18
+      },
+      "textSpacing": 6
+    },
+    "scrollbar": {
+      "color": "#393a348f",
+      "thickness": 2
+    },
+    "search": {
+      "background": "#e7e5dbff",
+      "backgroundSelected": "#22222214",
+      "paddingHorizontal": 7,
+      "paddingVertical": 4,
+      "roundness": 6,
+      "spacing": 9,
+      "text": {
+        "color": "#393a34ff",
+        "colorSelected": "#393a34ff",
+        "font": "System Light",
+        "size": 34
+      }
+    },
+    "separator": {
+      "color": "#ffffffff",
+      "thickness": 0
+    },
+    "visualEffectMode": 1,
+    "window": {
+      "blur": 0,
+      "borderColor": "#1c6b48ff",
+      "borderPadding": 0,
+      "color": "#f1f0e9ff",
+      "paddingHorizontal": 10,
+      "paddingVertical": 10,
+      "roundness": 10,
+      "width": 550
+    }
+  }
+}
