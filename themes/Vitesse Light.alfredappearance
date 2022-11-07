@@ -33,7 +33,7 @@
       "thickness": 2
     },
     "search": {
-      "background": "#f5f5f5ff",
+      "background": "#f7f7f7ff",
       "backgroundSelected": "#22222214",
       "paddingHorizontal": 7,
       "paddingVertical": 4,
