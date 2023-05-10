@@ -21,7 +21,7 @@
         "size": 12
       },
       "text": {
-        "color": "#dbd7caed",
+        "color": "#dbd7cacc",
         "colorSelected": "#000000ff",
         "font": "System",
         "size": 18
@@ -40,8 +40,8 @@
       "roundness": 6,
       "spacing": 9,
       "text": {
-        "color": "#dbd7caed",
-        "colorSelected": "#dbd7caed",
+        "color": "#dbd7cacc",
+        "colorSelected": "#dbd7cacc",
         "font": "System Light",
         "size": 34
       }
